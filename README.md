@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I am Shirley Morales 👋</h1>
 </div>
-<img src="https://github.com/user-attachments/assets/a3224066-73fb-47c1-8327-0efa82257b08">
+<img width=600 src="https://github.com/user-attachments/assets/a3224066-73fb-47c1-8327-0efa82257b08">
 
 
 
