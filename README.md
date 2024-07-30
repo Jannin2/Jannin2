@@ -12,9 +12,10 @@
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+## Language
 
 
-  <img height="180em" src="https://github.com/user-attachments/assets/49b6d0fd-2ee7-4742-a039-139d34c390f6"/>
-  <img  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+  <img  src="https://github.com/user-attachments/assets/49b6d0fd-2ee7-4742-a039-139d34c390f6"/>
+  <img  src="https://github.com/user-attachments/assets/9c480611-2eed-4c3d-abd8-af93fe13422a"/>
+   <img  src="https://github.com/user-attachments/assets/7998f4b7-11ba-42b7-a6b9-e2aaaeddd6db"/>
 
