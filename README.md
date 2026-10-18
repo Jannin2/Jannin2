@@ -1,5 +1,4 @@
 
-```html
 <h1 align="center">Hi, I'm Shirley Morales 👋</h1>
 <h3 align="center">Software Development | DevSecOps</h3>
 
@@ -44,7 +43,7 @@ I enjoy understanding the full software lifecycle, from writing code to automati
 - LinkedIn: [Shirley Morales](TU_ENLACE_DE_LINKEDIN)
 - GitHub: [Jannin2](https://github.com/Jannin2)
 - Bogotá, Colombia
-```
+
   
 
 
