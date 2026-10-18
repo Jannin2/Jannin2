@@ -17,12 +17,15 @@ On the development side, I work with Python, SQL, and JavaScript to build softwa
 
 I enjoy understanding the full software lifecycle, from writing code to automating its delivery and integrating security practices along the way.
 
-## 💻 Software Development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+## ⚙️ DevOps, Cloud & Security
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD_Pipelines-2560E0?style=flat&logo=azurepipelines&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqubeserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
 
 ## ⚙️ DevOps, Cloud & Security
 
