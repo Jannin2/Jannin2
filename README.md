@@ -37,13 +37,12 @@ I enjoy understanding the full software lifecycle, from writing code to automati
 ## 🌱 Currently Learning
 
 - Cloud infrastructure and Azure administration (AZ-104)
-- CI/CD pipelines and deployment automation
 - Secure coding and DevSecOps practices
 - Software design and maintainable application development
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Shirley Morales](TU_ENLACE_DE_LINKEDIN)
+- LinkedIn: [Shirley Morales](www.linkedin.com/in/jannin-morales)
 - GitHub: [Jannin2](https://github.com/Jannin2)
 - Bogotá, Colombia
 
