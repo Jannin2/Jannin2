@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Shirley Morales 👋</h1>
+<h1 align="center">Hi, I'm Jannin Morales 👋</h1>
 <h3 align="center">Software Development | DevSecOps</h3>
 
 <p align="center">
@@ -42,7 +42,7 @@ I enjoy understanding the full software lifecycle, from writing code to automati
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Shirley Morales](www.linkedin.com/in/jannin-morales)
+- LinkedIn: [Jannin Morales](https://www.linkedin.com/in/jannin-morales/?isSelfProfile=true)
 - GitHub: [Jannin2](https://github.com/Jannin2)
 - Bogotá, Colombia
 
